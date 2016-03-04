@@ -1,0 +1,14 @@
+﻿  main.cpp
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(126): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(127): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(237): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(348): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(359): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(360): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(363): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(364): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(367): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(368): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(371): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\graphic\fow_prototype\fow_prototype\main.cpp(372): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  fow_prototype.vcxproj -> E:\Study\Graphic\fow_prototype\Debug\fow_prototype.exe
